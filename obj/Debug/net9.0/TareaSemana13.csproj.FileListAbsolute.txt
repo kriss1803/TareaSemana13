@@ -1,0 +1,14 @@
+C:\Users\Dell\Documents\Estructura de datos\TareaSemana13\bin\Debug\net9.0\TareaSemana13.exe
+C:\Users\Dell\Documents\Estructura de datos\TareaSemana13\bin\Debug\net9.0\TareaSemana13.deps.json
+C:\Users\Dell\Documents\Estructura de datos\TareaSemana13\bin\Debug\net9.0\TareaSemana13.runtimeconfig.json
+C:\Users\Dell\Documents\Estructura de datos\TareaSemana13\bin\Debug\net9.0\TareaSemana13.dll
+C:\Users\Dell\Documents\Estructura de datos\TareaSemana13\bin\Debug\net9.0\TareaSemana13.pdb
+C:\Users\Dell\Documents\Estructura de datos\TareaSemana13\obj\Debug\net9.0\TareaSemana13.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Documents\Estructura de datos\TareaSemana13\obj\Debug\net9.0\TareaSemana13.AssemblyInfoInputs.cache
+C:\Users\Dell\Documents\Estructura de datos\TareaSemana13\obj\Debug\net9.0\TareaSemana13.AssemblyInfo.cs
+C:\Users\Dell\Documents\Estructura de datos\TareaSemana13\obj\Debug\net9.0\TareaSemana13.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Documents\Estructura de datos\TareaSemana13\obj\Debug\net9.0\TareaSemana13.dll
+C:\Users\Dell\Documents\Estructura de datos\TareaSemana13\obj\Debug\net9.0\refint\TareaSemana13.dll
+C:\Users\Dell\Documents\Estructura de datos\TareaSemana13\obj\Debug\net9.0\TareaSemana13.pdb
+C:\Users\Dell\Documents\Estructura de datos\TareaSemana13\obj\Debug\net9.0\TareaSemana13.genruntimeconfig.cache
+C:\Users\Dell\Documents\Estructura de datos\TareaSemana13\obj\Debug\net9.0\ref\TareaSemana13.dll
